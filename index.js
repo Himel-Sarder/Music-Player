@@ -12,6 +12,16 @@ const image = document.getElementById('cover'),
 
 const music = new Audio();
 
+/*
+Coded by---
+-----------------------------------------------------------------------------------------------
+Himel Sarder
+Bachelor of Engineering (B.E)
+Dept. of Computer Science and Engineering
+Bangamata Sheikh Fhojilatunnesa Mujib Science and Technology University, Jamalpur, Bangladesh
+-----------------------------------------------------------------------------------------------
+*/ 
+
 const songs = [
     {
         path: 'assets/1.mp3',
