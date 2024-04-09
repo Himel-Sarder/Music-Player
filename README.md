@@ -7,6 +7,8 @@
 
 This is a simple music player web application created by Himel Sarder. It allows users to listen to a collection of songs, view song details such as title and artist, control playback, and see the progress of the currently playing track.
 
+## Demo   
+[Click here for Preview](https://himel-sarder.github.io/Music-Player/)   
 ## Features
 
 - Play, pause, and skip tracks
