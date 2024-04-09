@@ -1,5 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap');
-
+/*
+Coded by---
+-----------------------------------------------------------------------------------------------
+Himel Sarder
+Bachelor of Engineering (B.E)
+Dept. of Computer Science and Engineering
+Bangamata Sheikh Fhojilatunnesa Mujib Science and Technology University, Jamalpur, Bangladesh
+-----------------------------------------------------------------------------------------------
+*/ 
 html {
     box-sizing: border-box;
 }
@@ -144,3 +152,12 @@ h3 {
 .play-button:hover {
     filter: brightness(40%);
 }
+/*
+Coded by---
+-----------------------------------------------------------------------------------------------
+Himel Sarder
+Bachelor of Engineering (B.E)
+Dept. of Computer Science and Engineering
+Bangamata Sheikh Fhojilatunnesa Mujib Science and Technology University, Jamalpur, Bangladesh
+-----------------------------------------------------------------------------------------------
+*/ 
